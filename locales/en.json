@@ -1,0 +1,35 @@
+{
+  "HeroSection": {
+    "title": "Build Something Amazing",
+    "subtitle": "A high-performance, i18n-ready boilerplate to launch stunning websites in record time.",
+    "ctaPrimary": "Explore Features"
+  },
+  "Header": {
+    "brand": "Starter Kit",
+    "features": "Features",
+    "contact": "Contact"
+  },
+  "FeaturesSection": {
+    "title": "Why Choose This Stack",
+    "subtitle": "Everything you need to deliver blazing-fast websites that convert visitors into customers.",
+    "feature1Title": "Lightning Fast",
+    "feature1Description": "Built on Next.js with SSG for PageSpeed 99+ scores out of the box. Your clients will love the speed.",
+    "feature2Title": "Rock-Solid SEO",
+    "feature2Description": "Pre-rendered pages, semantic HTML, and optimized meta tags ensure top search engine rankings.",
+    "feature3Title": "Multi-Language Ready",
+    "feature3Description": "Full i18n support with next-intl. Add new languages by simply creating a JSON file."
+  },
+  "CTASection": {
+    "title": "Ready to get started?",
+    "description": "Clone this boilerplate and have your next client site live in under 24 hours.",
+    "button": "Get Started"
+  },
+  "Footer": {
+    "brand": "Starter Kit",
+    "description": "A high-performance boilerplate for building fast, beautiful, and multilingual websites.",
+    "navigation": "Navigation",
+    "features": "Features",
+    "contact": "Contact",
+    "copyright": "All rights reserved."
+  }
+}
